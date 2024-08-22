@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning micro front-ends
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dusan-petkovic-5116b570/)
 
-- ✍🏽 [blog](http://dsaga.github.io/blog/)
+- ✍🏽 [blog](http://dusanpetkovicdsaga.github.io/blog/)
 <!--
  - 📄 [CV](https://github.com/dsaga/dsaga.github.io/blob/master/cv/cv.md) 
  -->
