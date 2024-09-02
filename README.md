@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Senior Software Engineer for Qcerris, focusing on front-end development
+- 🔭 I’m currently working as a Senior Software Engineer for NCR Voyix, focusing on front-end development
 - 🌱 I’m currently learning micro front-ends
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/dusan-petkovic-5116b570/)
 
